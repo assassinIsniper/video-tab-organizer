@@ -4,6 +4,16 @@
 
 Automatically detects tabs that are playing video and moves them to the right side of the browser window.
 
+> **版权与使用限制 / Copyright & Usage**
+>
+> 本项目源码仅供查看、学习和个人非商业使用。**未经作者书面许可，禁止将本项目代码或衍生作品用于任何商业目的、销售、再分发或构建竞争产品。** 商业授权请联系作者。
+>
+> This source code is provided for viewing, learning, and personal
+> non-commercial use only. **Commercial use, resale, redistribution, or
+> building a competing product from this code is prohibited without prior
+> written permission from the author.** For commercial licensing, please
+> contact the author.
+
 ## 功能 / Features
 
 - 自动检测页面中 `<video>` 元素的播放状态
@@ -60,6 +70,12 @@ This extension does not collect, store, or upload any user data. All detection a
 
 JavaScript, Chrome Extensions API (Manifest V3), MutationObserver
 
+## 商业授权 / Commercial Licensing
+
+如需商业使用授权，请通过 GitHub Issue 或作者邮箱联系。
+
+For commercial licensing inquiries, please contact the author via GitHub Issues or email.
+
 ## License
 
-MIT
+Source Available, Non-Commercial. See [LICENSE](LICENSE) for details.
